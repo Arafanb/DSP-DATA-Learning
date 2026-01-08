@@ -12,7 +12,7 @@ My journey learning DSP and Data Engeneering - Sessions tracking
 ### ✅ Week 1 - Python foundations
 
 | Session |Topic |      Key skills             |     Date    |
-|---------|------|-----------------------------|-------------|
+|------------|------|-----------------------------|-------------|
 | **Session 1:** | Python Basics & First code | Variables, print, datetime | 01/01/2026 |
 | **Session 2:** | Lists & Loop | Automation, data generation | 02/01/2026 | 
 | **Session 3:** | Functions & DSP Library | Reusable tools, rader simulation | 04/01/2026 |
