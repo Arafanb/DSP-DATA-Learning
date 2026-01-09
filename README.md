@@ -20,12 +20,8 @@ My journey learning DSP and Data Engeneering - Sessions tracking
 | **Session 5** | Advenced Signals | FFT, frequency analysis |
 ---
 
-## 🚀 Next Steps 
 
-- [] Session 4: 
-## 🎯 Current focus
-
-Bulding foundational DSP/Data skills through daily 1-hour sessions.
+Bulding foundational DSP/Data 
 
 **Languages:** Python, NymPy, SciPy (learning)
 **Specialisation:** Signal processing, Telecom Data analysis
