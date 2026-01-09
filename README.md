@@ -6,7 +6,6 @@ My journey learning DSP and Data Engeneering - Sessions tracking
 **Timeline:** 2026 - 2029 (Year 2/5 currently)
 **Languages:** French (native) | Russian (technical) | English (learning)
 
-
 ## 📚 Sessions completed
 
 | Session |Topic |      Key skills             |     Date    |
